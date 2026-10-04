@@ -1,0 +1,8 @@
+check,passed
+session_row_count_matches_input,True
+session_ids_unique,True
+daily_dates_unique,True
+no_negative_idle_duration,True
+charging_ratio_between_zero_and_one,True
+daily_session_count_positive,True
+lag_features_use_prior_days_only,True
