@@ -360,7 +360,7 @@ EV-Charging-Demand-Analytics/
 | Member | Workstream | Issues |
 |---|---|---|
 | [@M-Chandana](https://github.com/M-Chandana) | Data engineering: API connection, collection, structuring, documentation | #1 – #4 |
-| [@ADITHYARAMAN7](https://github.com/ADITHYARAMAN7) | Data preparation and exploration: cleaning, EDA, visualisation, feature engineering, time-series forecasting | #9 – #12, #16 |
+| [@ADITHYARAMAN7](https://github.com/ADITHYARAMAN7) | Data preparation and exploration: cleaning, EDA, visualisation, feature engineering, time-series forecasting | #12, #16 |
 | [@bhuvi-d](https://github.com/bhuvi-d) | Predictive analytics: problem definition, modelling, evaluation, forecast evaluation | #13 – #15, #17 |
 | [@Gnanesh-12](https://github.com/Gnanesh-12) | Behaviour analytics and delivery: association rules, dashboard | #5 – #8 |
 
