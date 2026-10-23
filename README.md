@@ -2,7 +2,7 @@
 
 > **Interactive Business Analytics Dashboard & Predictive Intelligence Platform**  
 > Caltech Adaptive Charging Network (ACN) Workplace EV Charging Optimization  
-> **Live Dashboard**: [https://m-chandana.github.io/EV-Charging-Demand-Analytics/](https://evcharging-alpha.vercel.app/)
+> **Live Dashboard**: [EV Charging Demand Analytics](https://evcharging-alpha.vercel.app/)
 
 ---
 
